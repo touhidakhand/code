@@ -1,0 +1,11 @@
+<!DOCTYPE>
+<html>
+<head>
+<title> Web Page Title </title>
+</head>
+<body>
+<h1>  SimplilearnHTML New Page </h1>
+<p style="height:500px;color:blue">  This page is designed to provide an idea on HTML content </p>
+<p style="height:500px;color:red">  This page is designed to provide an idea on HTML content and it is in red color </p>
+</body>
+</html>
